@@ -99,14 +99,6 @@ h2{
     padding: 20px;
 }
 
-
-.gif{
-    height: 10%;
-    width: auto;
-    max-width: 900px;
-    max-height: 10%;
-}
-
 .caixa-textos{
     background-color: rgb(192, 141, 216);
     border: 5px solid rgb(119, 0, 155);
