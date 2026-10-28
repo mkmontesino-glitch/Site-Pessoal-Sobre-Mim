@@ -1,5 +1,6 @@
 body{
     height: 100%;
+    background-color: black;
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
@@ -11,6 +12,16 @@ body{
     background-size: cover;
 }
 
+.main{
+    width: 90%;
+    max-width: 900px;
+    min-height: 1000px;
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: rgb(231, 213, 255);
+    padding: 20px;
+}
+
 #titulo {
     text-align: center;
     color: hsl(0, 0%, 100%);
@@ -19,6 +30,8 @@ body{
 
 h1 {
     text-align: left;
+    font-size: large;
+    color:white;
 }
 
 .caixa {
@@ -63,6 +76,8 @@ h2{
     padding-left: 20px;
     font-weight: 900;
     text-align: left;
+    font-size: medium;
+    color: black;
 }
 
 .header {
@@ -74,15 +89,6 @@ h2{
     padding: 20px;
 }
 
-.pagina{
-    width: 90%;
-    max-width: 900px;
-    min-height: 100svh;
-    margin-left: auto; 
-    margin-right: auto;
-    background-color: rgb(231, 213, 255);
-    padding: 20px;
-}
 
 .gif{
     height: 10%;
