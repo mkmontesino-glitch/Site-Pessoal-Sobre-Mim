@@ -128,6 +128,12 @@ button {
     margin: 3px;
 }
 
+.link-footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: larger;
+}
+
 footer{
     width: 90%;
     margin-top: 20px;
